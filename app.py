@@ -13,7 +13,6 @@ import docx
 import base64
 from io import BytesIO
 
-# Ensure necessary NLTK data is downloaded
 nltk.download('punkt')
 nltk.download('stopwords')
 
